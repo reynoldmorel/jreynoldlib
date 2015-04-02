@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.electrosoft.report</groupId>
+  <artifactId>JReynoldLibReportUtils</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150402011713</lastUpdated>
+  </versioning>
+</metadata>
