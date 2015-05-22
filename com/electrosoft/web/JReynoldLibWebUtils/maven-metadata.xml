@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.electrosoft.web</groupId>
+  <artifactId>JReynoldLibWebUtils</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150514230907</lastUpdated>
+  </versioning>
+</metadata>
