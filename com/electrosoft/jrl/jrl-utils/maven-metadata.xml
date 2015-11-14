@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.electrosoft.jrl</groupId>
+  <artifactId>jrl-utils</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20151114052411</lastUpdated>
+  </versioning>
+</metadata>

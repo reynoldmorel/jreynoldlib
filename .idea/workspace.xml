@@ -2,78 +2,211 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8cc58a0-056f-4671-b233-5ac78a425af4" name="Commit" comment="Committing jar files">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLib/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLib/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLibApplicationStructure/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLibApplicationStructure/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLibApplicationStructure/1.0-SNAPSHOT/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLibApplicationStructure/1.0-SNAPSHOT/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLibGraphsTheory/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLibGraphsTheory/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLibGraphsTheory/1.0-SNAPSHOT/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLibGraphsTheory/1.0-SNAPSHOT/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLibUtils/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLibUtils/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLibUtils/1.0-SNAPSHOT/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLibUtils/1.0-SNAPSHOT/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLib/1.0-SNAPSHOT/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLib/1.0-SNAPSHOT/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroid/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroid/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroidApplicationStructure/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroidApplicationStructure/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroidApplicationStructure/1.0-SNAPSHOT/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroidApplicationStructure/1.0-SNAPSHOT/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroid/1.0-SNAPSHOT/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroid/1.0-SNAPSHOT/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/animation/JReynoldLibAnimation/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/animation/JReynoldLibAnimation/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/animation/JReynoldLibAnimation/1.0-SNAPSHOT/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/animation/JReynoldLibAnimation/1.0-SNAPSHOT/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/report/JReynoldLibReportUtils/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/report/JReynoldLibReportUtils/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/report/JReynoldLibReportUtils/1.0-SNAPSHOT/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/report/JReynoldLibReportUtils/1.0-SNAPSHOT/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwing/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwing/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwingUtils/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwingUtils/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwingUtils/1.0-SNAPSHOT/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwingUtils/1.0-SNAPSHOT/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwing/1.0-SNAPSHOT/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwing/1.0-SNAPSHOT/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWeb/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWeb/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWebUtils/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWebUtils/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWebUtils/1.0-SNAPSHOT/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWebUtils/1.0-SNAPSHOT/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWeb/1.0-SNAPSHOT/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWeb/1.0-SNAPSHOT/maven-metadata.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLib/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLib/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLibApplicationStructure/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLibApplicationStructure/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLibApplicationStructure/1.0-SNAPSHOT/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLibApplicationStructure/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLibGraphsTheory/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLibGraphsTheory/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLibGraphsTheory/1.0-SNAPSHOT/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLibGraphsTheory/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLibUtils/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLibUtils/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLibUtils/1.0-SNAPSHOT/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLibUtils/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLib/1.0-SNAPSHOT/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLib/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroid/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroid/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroidApplicationStructure/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroidApplicationStructure/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroidApplicationStructure/1.0-SNAPSHOT/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroidApplicationStructure/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroid/1.0-SNAPSHOT/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroid/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/animation/JReynoldLibAnimation/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/animation/JReynoldLibAnimation/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/animation/JReynoldLibAnimation/1.0-SNAPSHOT/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/animation/JReynoldLibAnimation/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/report/JReynoldLibReportUtils/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/report/JReynoldLibReportUtils/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/report/JReynoldLibReportUtils/1.0-SNAPSHOT/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/report/JReynoldLibReportUtils/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwing/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwing/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwingUtils/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwingUtils/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwingUtils/1.0-SNAPSHOT/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwingUtils/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwing/1.0-SNAPSHOT/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwing/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWeb/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWeb/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWebUtils/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWebUtils/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWebUtils/1.0-SNAPSHOT/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWebUtils/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWeb/1.0-SNAPSHOT/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWeb/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLib/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLib/maven-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLibApplicationStructure/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLibApplicationStructure/maven-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLibApplicationStructure/1.0-SNAPSHOT/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLibApplicationStructure/1.0-SNAPSHOT/maven-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLibGraphsTheory/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLibGraphsTheory/maven-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLibGraphsTheory/1.0-SNAPSHOT/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLibGraphsTheory/1.0-SNAPSHOT/maven-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLibUtils/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLibUtils/maven-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLibUtils/1.0-SNAPSHOT/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLibUtils/1.0-SNAPSHOT/maven-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/JReynoldLib/1.0-SNAPSHOT/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/JReynoldLib/1.0-SNAPSHOT/maven-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroid/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroid/maven-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroidApplicationStructure/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroidApplicationStructure/maven-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroidApplicationStructure/1.0-SNAPSHOT/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroidApplicationStructure/1.0-SNAPSHOT/maven-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroid/1.0-SNAPSHOT/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/android/JReynoldLibAndroid/1.0-SNAPSHOT/maven-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/animation/JReynoldLibAnimation/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/animation/JReynoldLibAnimation/maven-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/animation/JReynoldLibAnimation/1.0-SNAPSHOT/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/animation/JReynoldLibAnimation/1.0-SNAPSHOT/maven-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/report/JReynoldLibReportUtils/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/report/JReynoldLibReportUtils/maven-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/report/JReynoldLibReportUtils/1.0-SNAPSHOT/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/report/JReynoldLibReportUtils/1.0-SNAPSHOT/maven-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwing/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwing/maven-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwingUtils/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwingUtils/maven-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwingUtils/1.0-SNAPSHOT/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwingUtils/1.0-SNAPSHOT/maven-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwing/1.0-SNAPSHOT/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/swing/JReynoldLibSwing/1.0-SNAPSHOT/maven-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWeb/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWeb/maven-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWebUtils/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWebUtils/maven-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWebUtils/1.0-SNAPSHOT/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWebUtils/1.0-SNAPSHOT/maven-metadata.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWeb/1.0-SNAPSHOT/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWeb/1.0-SNAPSHOT/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/android/app-struc/1.0-SNAPSHOT/app-struc-1.0-20151114.052419-1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-animation/1.0-SNAPSHOT/jrl-animation-1.0-20151114.052417-1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-app-srtuc/1.0-SNAPSHOT/jrl-app-srtuc-1.0-20151114.052415-1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-graphs-theory/1.0-SNAPSHOT/jrl-graphs-theory-1.0-20151114.052415-1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-report-utils/1.0-SNAPSHOT/jrl-report-utils-1.0-20151114.052412-1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-utils/1.0-SNAPSHOT/jrl-utils-1.0-20151114.052411-1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/swing/swing-utils/1.0-SNAPSHOT/swing-utils-1.0-20151114.052420-1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/web/web-utils/1.0-SNAPSHOT/web-utils-1.0-20151114.052414-1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/android/app-struc/1.0-SNAPSHOT/app-struc-1.0-20151114.052419-1.jar.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/android/app-struc/1.0-SNAPSHOT/app-struc-1.0-20151114.052419-1.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/android/app-struc/1.0-SNAPSHOT/app-struc-1.0-20151114.052419-1.pom.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/android/app-struc/1.0-SNAPSHOT/app-struc-1.0-20151114.052419-1.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/android/app-struc/1.0-SNAPSHOT/app-struc-1.0-20151114.052419-1.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jreynoldlib/1.0-SNAPSHOT/jreynoldlib-1.0-20151114.052408-1.pom.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jreynoldlib/1.0-SNAPSHOT/jreynoldlib-1.0-20151114.052408-1.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jreynoldlib/1.0-SNAPSHOT/jreynoldlib-1.0-20151114.052408-1.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/android/jrl-android/1.0-SNAPSHOT/jrl-android-1.0-20151114.052418-1.pom.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/android/jrl-android/1.0-SNAPSHOT/jrl-android-1.0-20151114.052418-1.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/android/jrl-android/1.0-SNAPSHOT/jrl-android-1.0-20151114.052418-1.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-animation/1.0-SNAPSHOT/jrl-animation-1.0-20151114.052417-1.jar.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-animation/1.0-SNAPSHOT/jrl-animation-1.0-20151114.052417-1.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-animation/1.0-SNAPSHOT/jrl-animation-1.0-20151114.052417-1.pom.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-animation/1.0-SNAPSHOT/jrl-animation-1.0-20151114.052417-1.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-animation/1.0-SNAPSHOT/jrl-animation-1.0-20151114.052417-1.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-app-srtuc/1.0-SNAPSHOT/jrl-app-srtuc-1.0-20151114.052415-1.jar.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-app-srtuc/1.0-SNAPSHOT/jrl-app-srtuc-1.0-20151114.052415-1.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-app-srtuc/1.0-SNAPSHOT/jrl-app-srtuc-1.0-20151114.052415-1.pom.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-app-srtuc/1.0-SNAPSHOT/jrl-app-srtuc-1.0-20151114.052415-1.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-app-srtuc/1.0-SNAPSHOT/jrl-app-srtuc-1.0-20151114.052415-1.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-graphs-theory/1.0-SNAPSHOT/jrl-graphs-theory-1.0-20151114.052415-1.jar.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-graphs-theory/1.0-SNAPSHOT/jrl-graphs-theory-1.0-20151114.052415-1.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-graphs-theory/1.0-SNAPSHOT/jrl-graphs-theory-1.0-20151114.052415-1.pom.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-graphs-theory/1.0-SNAPSHOT/jrl-graphs-theory-1.0-20151114.052415-1.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-graphs-theory/1.0-SNAPSHOT/jrl-graphs-theory-1.0-20151114.052415-1.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-report-utils/1.0-SNAPSHOT/jrl-report-utils-1.0-20151114.052412-1.jar.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-report-utils/1.0-SNAPSHOT/jrl-report-utils-1.0-20151114.052412-1.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-report-utils/1.0-SNAPSHOT/jrl-report-utils-1.0-20151114.052412-1.pom.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-report-utils/1.0-SNAPSHOT/jrl-report-utils-1.0-20151114.052412-1.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-report-utils/1.0-SNAPSHOT/jrl-report-utils-1.0-20151114.052412-1.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/swing/jrl-swing/1.0-SNAPSHOT/jrl-swing-1.0-20151114.052419-1.pom.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/swing/jrl-swing/1.0-SNAPSHOT/jrl-swing-1.0-20151114.052419-1.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/swing/jrl-swing/1.0-SNAPSHOT/jrl-swing-1.0-20151114.052419-1.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-utils/1.0-SNAPSHOT/jrl-utils-1.0-20151114.052411-1.jar.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-utils/1.0-SNAPSHOT/jrl-utils-1.0-20151114.052411-1.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-utils/1.0-SNAPSHOT/jrl-utils-1.0-20151114.052411-1.pom.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-utils/1.0-SNAPSHOT/jrl-utils-1.0-20151114.052411-1.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-utils/1.0-SNAPSHOT/jrl-utils-1.0-20151114.052411-1.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/web/jrl-web/1.0-SNAPSHOT/jrl-web-1.0-20151114.052413-1.pom.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/web/jrl-web/1.0-SNAPSHOT/jrl-web-1.0-20151114.052413-1.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/web/jrl-web/1.0-SNAPSHOT/jrl-web-1.0-20151114.052413-1.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/android/app-struc/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/android/app-struc/1.0-SNAPSHOT/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/android/jrl-android/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/android/jrl-android/1.0-SNAPSHOT/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jreynoldlib/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jreynoldlib/1.0-SNAPSHOT/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-animation/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-animation/1.0-SNAPSHOT/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-app-srtuc/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-app-srtuc/1.0-SNAPSHOT/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-graphs-theory/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-graphs-theory/1.0-SNAPSHOT/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-report-utils/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-report-utils/1.0-SNAPSHOT/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-utils/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-utils/1.0-SNAPSHOT/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/swing/jrl-swing/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/swing/jrl-swing/1.0-SNAPSHOT/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/swing/swing-utils/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/swing/swing-utils/1.0-SNAPSHOT/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/web/jrl-web/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/web/jrl-web/1.0-SNAPSHOT/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/web/web-utils/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/web/web-utils/1.0-SNAPSHOT/maven-metadata.xml.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/android/app-struc/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/android/app-struc/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/android/jrl-android/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/android/jrl-android/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jreynoldlib/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jreynoldlib/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-animation/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-animation/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-app-srtuc/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-app-srtuc/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-graphs-theory/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-graphs-theory/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-report-utils/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-report-utils/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-utils/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-utils/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/swing/jrl-swing/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/swing/jrl-swing/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/swing/swing-utils/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/swing/swing-utils/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/web/jrl-web/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/web/jrl-web/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/web/web-utils/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/web/web-utils/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/android/app-struc/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/android/app-struc/1.0-SNAPSHOT/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/android/jrl-android/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/android/jrl-android/1.0-SNAPSHOT/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jreynoldlib/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jreynoldlib/1.0-SNAPSHOT/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-animation/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-animation/1.0-SNAPSHOT/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-app-srtuc/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-app-srtuc/1.0-SNAPSHOT/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-graphs-theory/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-graphs-theory/1.0-SNAPSHOT/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-report-utils/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-report-utils/1.0-SNAPSHOT/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-utils/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/jrl-utils/1.0-SNAPSHOT/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/swing/jrl-swing/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/swing/jrl-swing/1.0-SNAPSHOT/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/swing/swing-utils/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/swing/swing-utils/1.0-SNAPSHOT/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/web/jrl-web/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/web/jrl-web/1.0-SNAPSHOT/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/web/web-utils/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/web/web-utils/1.0-SNAPSHOT/maven-metadata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/swing/swing-utils/1.0-SNAPSHOT/swing-utils-1.0-20151114.052420-1.jar.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/swing/swing-utils/1.0-SNAPSHOT/swing-utils-1.0-20151114.052420-1.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/swing/swing-utils/1.0-SNAPSHOT/swing-utils-1.0-20151114.052420-1.pom.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/swing/swing-utils/1.0-SNAPSHOT/swing-utils-1.0-20151114.052420-1.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/swing/swing-utils/1.0-SNAPSHOT/swing-utils-1.0-20151114.052420-1.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/web/web-utils/1.0-SNAPSHOT/web-utils-1.0-20151114.052414-1.jar.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/web/web-utils/1.0-SNAPSHOT/web-utils-1.0-20151114.052414-1.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/web/web-utils/1.0-SNAPSHOT/web-utils-1.0-20151114.052414-1.pom.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/web/web-utils/1.0-SNAPSHOT/web-utils-1.0-20151114.052414-1.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/electrosoft/jrl/web/web-utils/1.0-SNAPSHOT/web-utils-1.0-20151114.052414-1.pom" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLibApplicationStructure\1.0-SNAPSHOT\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLibApplicationStructure\1.0-SNAPSHOT\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLibApplicationStructure\1.0-SNAPSHOT\maven-metadata.xml.sha1" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLibApplicationStructure\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLibApplicationStructure\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLibApplicationStructure\maven-metadata.xml.sha1" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLibGraphsTheory\1.0-SNAPSHOT\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLibGraphsTheory\1.0-SNAPSHOT\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLibGraphsTheory\1.0-SNAPSHOT\maven-metadata.xml.sha1" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLibGraphsTheory\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLibGraphsTheory\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLibGraphsTheory\maven-metadata.xml.sha1" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLibUtils\1.0-SNAPSHOT\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLibUtils\1.0-SNAPSHOT\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLibUtils\1.0-SNAPSHOT\maven-metadata.xml.sha1" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLibUtils\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLibUtils\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLibUtils\maven-metadata.xml.sha1" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLib\1.0-SNAPSHOT\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLib\1.0-SNAPSHOT\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLib\1.0-SNAPSHOT\maven-metadata.xml.sha1" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLib\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLib\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\JReynoldLib\maven-metadata.xml.sha1" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\android\JReynoldLibAndroidApplicationStructure\1.0-SNAPSHOT\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\android\JReynoldLibAndroidApplicationStructure\1.0-SNAPSHOT\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\android\JReynoldLibAndroidApplicationStructure\1.0-SNAPSHOT\maven-metadata.xml.sha1" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\android\JReynoldLibAndroidApplicationStructure\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\android\JReynoldLibAndroidApplicationStructure\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\android\JReynoldLibAndroidApplicationStructure\maven-metadata.xml.sha1" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\android\JReynoldLibAndroid\1.0-SNAPSHOT\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\android\JReynoldLibAndroid\1.0-SNAPSHOT\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\android\JReynoldLibAndroid\1.0-SNAPSHOT\maven-metadata.xml.sha1" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\android\JReynoldLibAndroid\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\android\JReynoldLibAndroid\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\android\JReynoldLibAndroid\maven-metadata.xml.sha1" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\animation\JReynoldLibAnimation\1.0-SNAPSHOT\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\animation\JReynoldLibAnimation\1.0-SNAPSHOT\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\animation\JReynoldLibAnimation\1.0-SNAPSHOT\maven-metadata.xml.sha1" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\animation\JReynoldLibAnimation\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\animation\JReynoldLibAnimation\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\animation\JReynoldLibAnimation\maven-metadata.xml.sha1" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\report\JReynoldLibReportUtils\1.0-SNAPSHOT\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\report\JReynoldLibReportUtils\1.0-SNAPSHOT\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\report\JReynoldLibReportUtils\1.0-SNAPSHOT\maven-metadata.xml.sha1" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\report\JReynoldLibReportUtils\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\report\JReynoldLibReportUtils\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\report\JReynoldLibReportUtils\maven-metadata.xml.sha1" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\swing\JReynoldLibSwingUtils\1.0-SNAPSHOT\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\swing\JReynoldLibSwingUtils\1.0-SNAPSHOT\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\swing\JReynoldLibSwingUtils\1.0-SNAPSHOT\maven-metadata.xml.sha1" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\swing\JReynoldLibSwingUtils\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\swing\JReynoldLibSwingUtils\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\swing\JReynoldLibSwingUtils\maven-metadata.xml.sha1" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\swing\JReynoldLibSwing\1.0-SNAPSHOT\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\swing\JReynoldLibSwing\1.0-SNAPSHOT\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\swing\JReynoldLibSwing\1.0-SNAPSHOT\maven-metadata.xml.sha1" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\swing\JReynoldLibSwing\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\swing\JReynoldLibSwing\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\swing\JReynoldLibSwing\maven-metadata.xml.sha1" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\web\JReynoldLibWebUtils\1.0-SNAPSHOT\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\web\JReynoldLibWebUtils\1.0-SNAPSHOT\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\web\JReynoldLibWebUtils\1.0-SNAPSHOT\maven-metadata.xml.sha1" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\web\JReynoldLibWebUtils\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\web\JReynoldLibWebUtils\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\web\JReynoldLibWebUtils\maven-metadata.xml.sha1" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\web\JReynoldLibWeb\1.0-SNAPSHOT\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\web\JReynoldLibWeb\1.0-SNAPSHOT\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\web\JReynoldLibWeb\1.0-SNAPSHOT\maven-metadata.xml.sha1" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\web\JReynoldLibWeb\maven-metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\web\JReynoldLibWeb\maven-metadata.xml.md5" afterPath="" />
+      <change type="DELETED" beforePath="C:\repo\maven\jreynoldlib\com\electrosoft\web\JReynoldLibWeb\maven-metadata.xml.sha1" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="65a40c7e-4877-4084-8558-8d413e61675f" name="No Commit" comment="No commit changelist" />
@@ -99,7 +232,18 @@
     <favorites_list name="JReynoldLib" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.50442475" vertical-offset="176" max-vertical-offset="289">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -115,10 +259,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1592" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="1040" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -161,7 +305,85 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="jreynoldlib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="JReynoldLib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jreynoldlib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="electrosoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jrl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JReynoldLib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jreynoldlib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="electrosoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jrl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jrl-animation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JReynoldLib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jreynoldlib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="electrosoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jrl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jrl-animation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1.0-SNAPSHOT" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -459,7 +681,9 @@
       <workItem from="1435120460922" duration="206000" />
       <workItem from="1440468717728" duration="813000" />
       <workItem from="1444513279637" duration="270000" />
-      <workItem from="1444514252656" duration="3000" />
+      <workItem from="1444514252656" duration="624000" />
+      <workItem from="1444542575806" duration="329000" />
+      <workItem from="1447478479295" duration="275000" />
     </task>
     <task id="LOCAL-00001" summary="Committing jar files">
       <created>1432337830547</created>
@@ -563,17 +787,23 @@
       <option name="project" value="LOCAL" />
       <updated>1444513315486</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Committing jar files">
+      <created>1444514273138</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1444514273138</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9914000" />
+    <option name="totallyTimeSpent" value="11139000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1592" y="-8" width="1296" height="1040" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.72624433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.7691238" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -585,7 +815,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19858612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -621,6 +851,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
@@ -633,23 +864,9 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWeb/1.0-SNAPSHOT/maven-metadata.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="442">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWeb/1.0-SNAPSHOT/maven-metadata.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -663,15 +880,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45212767" vertical-offset="51" max-vertical-offset="289">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/electrosoft/web/JReynoldLibWeb/1.0-SNAPSHOT/maven-metadata.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31924883" vertical-offset="119" max-vertical-offset="442">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        <state vertical-scroll-proportion="-0.50442475" vertical-offset="176" max-vertical-offset="289">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
