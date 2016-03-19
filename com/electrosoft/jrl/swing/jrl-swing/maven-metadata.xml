@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.electrosoft.jrl.swing</groupId>
+  <artifactId>jrl-swing</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160319182510</lastUpdated>
+  </versioning>
+</metadata>
