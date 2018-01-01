@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.electrosoft.jrl</groupId>
+        <artifactId>jreynoldlib</artifactId>
+        <version>1.0</version>
+    </parent>
+    <groupId>com.electrosoft.jrl.android</groupId>
+    <artifactId>jrl-android</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>app-struc</module>
+    </modules>
+    <profiles>
+        <profile>
+            <id>Release</id>
+            <activation>
+                <activeByDefault>false</activeByDefault>
+                <property>
+                    <name>release</name>
+                    <value>Release</value>
+                </property>
+            </activation>
+            <distributionManagement>
+                <repository>
+                    <id>internal.repo</id>
+                    <name>Temporary Staging Repository</name>
+                    <url>file://${project.parent.build.directory}/mvn-repo</url>
+                </repository>
+            </distributionManagement>
+            <build>
+                <plugins>
+                    <plugin>
+                        <artifactId>maven-deploy-plugin</artifactId>
+                        <version>2.8.1</version>
+                        <configuration>
+                            <altDeploymentRepository>
+                                internal.repo::default::file://${project.parent.build.directory}/mvn-repo
+                            </altDeploymentRepository>
+                        </configuration>
+                    </plugin>
+                </plugins>
+            </build>
+        </profile>
+    </profiles>
+</project>
