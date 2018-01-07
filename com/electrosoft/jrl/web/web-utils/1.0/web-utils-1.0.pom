@@ -215,7 +215,7 @@
                                 </goals>
                                 <configuration>
                                     <classpathScope>test</classpathScope>
-                                    <mainClass>com.electrosoft.jrl.web.utils.test.TestExample</mainClass>
+                                    <mainClass>com.electrosoft.jrl.web.utils.test.TestMain</mainClass>
                                 </configuration>
                             </execution>
                         </executions>

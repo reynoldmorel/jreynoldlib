@@ -127,7 +127,7 @@
                                 </goals>
                                 <configuration>
                                     <classpathScope>test</classpathScope>
-                                    <mainClass>com.electrosoft.jrl.android.app.struc.test.TestExample</mainClass>
+                                    <mainClass>com.electrosoft.jrl.android.app.struc.test.TestMain</mainClass>
                                 </configuration>
                             </execution>
                         </executions>

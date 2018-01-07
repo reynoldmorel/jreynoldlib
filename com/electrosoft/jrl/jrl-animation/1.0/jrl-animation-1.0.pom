@@ -111,7 +111,7 @@
                                 </goals>
                                 <configuration>
                                     <classpathScope>test</classpathScope>
-                                    <mainClass>com.electrosoft.jrl.animation.test.TestExample</mainClass>
+                                    <mainClass>com.electrosoft.jrl.animation.test.TestMain</mainClass>
                                 </configuration>
                             </execution>
                         </executions>

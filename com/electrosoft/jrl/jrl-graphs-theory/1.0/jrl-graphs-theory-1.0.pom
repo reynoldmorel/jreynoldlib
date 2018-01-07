@@ -111,7 +111,7 @@
                                 </goals>
                                 <configuration>
                                     <classpathScope>test</classpathScope>
-                                    <mainClass>com.electrosoft.jrl.graphs.theory.test.TestExample</mainClass>
+                                    <mainClass>com.electrosoft.jrl.graphs.theory.test.TestMain</mainClass>
                                 </configuration>
                             </execution>
                         </executions>
