@@ -13,7 +13,7 @@
     <properties>
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
-        <jreynoldlib.version>1.0-SNAPSHOT</jreynoldlib.version>
+        <jreynoldlib.version>1.0</jreynoldlib.version>
         <projectPath>src/main/java/com/electrosoft/jrl/app/struc</projectPath>
         <resourcesPath>src/main/resources</resourcesPath>
         <junit.version>4.4</junit.version>

@@ -19,7 +19,7 @@
         <resourcesPath>src/main/resources</resourcesPath>
         <apache.poi.version>3.10-FINAL</apache.poi.version>
         <junit.version>4.4</junit.version>
-        <jreynoldlib.version>1.0-SNAPSHOT</jreynoldlib.version>
+        <jreynoldlib.version>1.0</jreynoldlib.version>
     </properties>
     <dependencies>
         <dependency>

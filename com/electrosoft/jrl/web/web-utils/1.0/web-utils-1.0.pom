@@ -23,7 +23,7 @@
         <jersey.json.version>1.9</jersey.json.version>
         <apache.poi.version>3.10-FINAL</apache.poi.version>
         <apache.httpcomponents.version>4.0-alpha4</apache.httpcomponents.version>
-        <jreynoldlib.version>1.0-SNAPSHOT</jreynoldlib.version>
+        <jreynoldlib.version>1.0</jreynoldlib.version>
         <commons.fileupload.version>1.3.1</commons.fileupload.version>
         <commons.io.version>2.4</commons.io.version>
         <projectPath>src/main/java/com/electrosoft/jrl/web/utils</projectPath>
