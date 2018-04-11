@@ -31,8 +31,14 @@
         <junit.version>4.4</junit.version>
         <json.version>20140107</json.version>
         <itext.version>2.1.7</itext.version>
+        <spring.security.oauth2.version>2.3.1.RELEASE</spring.security.oauth2.version>
     </properties>
     <dependencies>
+        <dependency>
+            <groupId>org.springframework.security.oauth</groupId>
+            <artifactId>spring-security-oauth2</artifactId>
+            <version>${spring.security.oauth2.version}</version>
+        </dependency>
         <dependency>
             <groupId>org.json</groupId>
             <artifactId>json</artifactId>
