@@ -13,7 +13,7 @@
     <properties>
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
-        <spring.version>4.0.5.RELEASE</spring.version>
+        <spring.version>4.3.9.RELEASE</spring.version>
         <jasper.reports.version>5.0.1</jasper.reports.version>
         <net.sf.jasperreports.version>6.5.0</net.sf.jasperreports.version>
         <commons.collections.version>3.2.1</commons.collections.version>
