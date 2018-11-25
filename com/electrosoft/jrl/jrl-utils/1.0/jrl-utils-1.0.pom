@@ -12,14 +12,14 @@
     <name>jrl-utils</name>
 
     <properties>
-        <maven.compiler.source>1.7</maven.compiler.source>
-        <maven.compiler.target>1.7</maven.compiler.target>
-        <log4j.version>1.2.17</log4j.version>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <log4j.version>2.7</log4j.version>
         <projectPath>src/main/java/com/electrosoft/jrl/utils</projectPath>
         <resourcesPath>src/main/resources</resourcesPath>
-        <slf4j.version>1.7.7</slf4j.version>
         <junit.version>4.4</junit.version>
         <android.version>4.1.1.4</android.version>
+        <java.version>1.8</java.version>
     </properties>
     <dependencies>
         <dependency>
@@ -28,24 +28,19 @@
             <version>1.0.3</version>
         </dependency>
         <dependency>
-            <groupId>log4j</groupId>
-            <artifactId>log4j</artifactId>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-core</artifactId>
+            <version>${log4j.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-api</artifactId>
             <version>${log4j.version}</version>
         </dependency>
         <dependency>
             <groupId>com.google.android</groupId>
             <artifactId>android</artifactId>
             <version>${android.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>jul-to-slf4j</artifactId>
-            <version>${slf4j.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-log4j12</artifactId>
-            <version>${slf4j.version}</version>
         </dependency>
     </dependencies>
     <profiles>

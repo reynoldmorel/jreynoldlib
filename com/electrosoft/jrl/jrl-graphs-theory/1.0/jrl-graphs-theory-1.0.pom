@@ -11,12 +11,13 @@
     <packaging>jar</packaging>
     <name>jrl-graphs-theory</name>
     <properties>
-        <maven.compiler.source>1.7</maven.compiler.source>
-        <maven.compiler.target>1.7</maven.compiler.target>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
         <jreynoldlib.version>1.0</jreynoldlib.version>
         <projectPath>src/main/java/com/electrosoft/jrl/graphs/theory</projectPath>
         <resourcesPath>src/main/resources</resourcesPath>
         <junit.version>4.4</junit.version>
+        <java.version>1.8</java.version>
     </properties>
     <dependencies>
         <dependency>
@@ -24,9 +25,13 @@
             <artifactId>jrl-utils</artifactId>
             <version>${jreynoldlib.version}</version>
             <exclusions>
-                <exclusion>  <!-- declare the exclusion here -->
+                <exclusion>
                     <groupId>com.google.android</groupId>
                     <artifactId>android</artifactId>
+                </exclusion>
+                <exclusion>
+                    <groupId>de.mindpipe.android</groupId>
+                    <artifactId>android-logging-log4j</artifactId>
                 </exclusion>
             </exclusions>
         </dependency>
