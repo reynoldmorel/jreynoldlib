@@ -10,7 +10,7 @@
     <artifactId>jrl-report-utils</artifactId>
     <packaging>jar</packaging>
     <properties>
-        <java.version>1.8</java.version>
+        <java.version>1.7</java.version>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <net.sf.jasperreports.version>6.5.0</net.sf.jasperreports.version>
