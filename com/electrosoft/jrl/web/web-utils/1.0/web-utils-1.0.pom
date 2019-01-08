@@ -18,7 +18,7 @@
         <jasper.reports.version>5.0.1</jasper.reports.version>
         <net.sf.jasperreports.version>6.5.0</net.sf.jasperreports.version>
         <commons.collections.version>3.2.1</commons.collections.version>
-        <spring.security.version>5.0.4.RELEASE</spring.security.version>
+        <spring.security.version>4.2.10.RELEASE</spring.security.version>
         <jsf.version>2.2.2</jsf.version>
         <jersey.client.version>2.5.1</jersey.client.version>
         <jersey.json.version>2.27</jersey.json.version>
