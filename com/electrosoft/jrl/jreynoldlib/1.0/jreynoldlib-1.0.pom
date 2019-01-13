@@ -11,7 +11,6 @@
         <module>jrl-app-struc</module>
         <module>jrl-graphs-theory</module>
         <module>jrl-animation</module>
-        <module>jrl-android</module>
         <module>jrl-web</module>
         <module>jrl-report-utils</module>
         <module>jrl-swing</module>
